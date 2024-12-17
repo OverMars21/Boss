@@ -1,6 +1,9 @@
 Part-Time Job Mobile App -- Boss
+
 CSC 680/780: Application Development for Mobile Devices
+
 Fall 2024
+
 Developer: Hao Zhang
 
 Project Overview
