@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23605" systemVersion="23F79" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="NewJob" representedClassName=".NewJob" syncable="YES" codeGenerationType="class">
+        <attribute name="business" optional="YES" attributeType="String"/>
+        <attribute name="city" optional="YES" attributeType="String"/>
+        <attribute name="companyName" optional="YES" attributeType="String"/>
+        <attribute name="contact" optional="YES" attributeType="String"/>
+        <attribute name="contactType" optional="YES" attributeType="String"/>
+        <attribute name="endHour" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="endHour2" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="endMin" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="endMin2" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="has2" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="hourlyWage" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="isActive" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="moveFee" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="needEdu" optional="YES" attributeType="String"/>
+        <attribute name="needExp" optional="YES" attributeType="String"/>
+        <attribute name="needFrame" optional="YES" attributeType="String"/>
+        <attribute name="needLan" optional="YES" attributeType="String"/>
+        <attribute name="noOvertime" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="otherBenefit" optional="YES" attributeType="String"/>
+        <attribute name="otherNeed" optional="YES" attributeType="String"/>
+        <attribute name="otherTime" optional="YES" attributeType="String"/>
+        <attribute name="placeName" optional="YES" attributeType="String"/>
+        <attribute name="province" optional="YES" attributeType="String"/>
+        <attribute name="startHour" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="startHour2" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="startMin" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="startMin2" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="tax" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="updatedAt" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="userID" optional="YES" attributeType="String"/>
+        <attribute name="wantNum" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="workContent" optional="YES" attributeType="String"/>
+    </entity>
+</model>
